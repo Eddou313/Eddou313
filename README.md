@@ -1,4 +1,4 @@
-## Bonjour 👋
+## Merci de prendre le temps de découvrir mon travail
 
 Bonjour ! Je suis Randrianarison Eddou 👨‍💻  
 Je suis un développeur Full-Stack passionné, qui aime concevoir des applications efficaces, évolutives et conviviales.
