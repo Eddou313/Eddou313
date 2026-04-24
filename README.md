@@ -1,34 +1,22 @@
-# ██████╗ ██████╗ ██████╗  ██████╗ ██╗   ██╗
-
-# ██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║   ██║
-
-# ██████╔╝██████╔╝██████╔╝██║   ██║██║   ██║
-
-# ██╔═══╝ ██╔══██╗██╔══██╗██║   ██║██║   ██║
-
-# ██║     ██║  ██║██║  ██║╚██████╔╝╚██████╔╝
-
-# ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
-
 > *System.out.println("Hello World, I'm Eddou 👨‍💻");*
 
 ---
 
-## 🧠 IDENTITY
+## 🧠 IDENTITÉ
 
 ```
-Name        : Randrianarison Eddou
-Role        : Full-Stack Developer
-Focus       : Performance | Architecture | Clean Code
-Status      : Building / Learning / Optimizing
-Location    : Madagascar 🇲🇬
+Nom         : Randrianarison Miary Lovatiana Eddou
+Rôle        : Développeur Full-Stack
+Spécialité  : Performance | Architecture | Code propre
+Statut      : En construction / En apprentissage / En optimisation
+Localisation: Madagascar 🇲🇬
 ```
 
 ---
 
-## ⚙️ STACK
+## ⚙️ STACK TECHNIQUE
 
-### 🧑‍💻 Languages
+### 🧑‍💻 Langages
 
 `Java` `C` `C#` `Python` `PHP` `JavaScript`
 
@@ -40,38 +28,32 @@ Location    : Madagascar 🇲🇬
 
 `Vue.js` `HTML` `CSS` `Tailwind` `Bootstrap` `JSP` `Thymeleaf`
 
-### 🗄️ Database
+### 🗄️ Bases de données
 
 `PostgreSQL` `MongoDB` `SQL`
 
-### 🛠️ Tools
+### 📊 Data & Visualisation
+
+`Power BI`
+
+### 🛠️ Outils & Systèmes
 
 `Git` `SSH` `HAProxy` `Samba` `n8n` `FileZilla`
 
 ---
 
-## 🔥 CURRENT MISSION
+## 🔥 ACTIVITÉS ACTUELLES
 
 ```
-> Designing scalable systems
-> Building full-stack applications
-> Exploring DevOps & Cloud
-> Optimizing algorithms & data flow
+> Conception de systèmes scalables
+> Développement d'applications full-stack
+> Exploration du DevOps & Cloud
+> Optimisation des algorithmes et des flux de données
 ```
 
 ---
 
-## 🧩 PROJECT ZONE
-
-* ⚙️ Simulation systems (dashboard, automation)
-* 📊 Data pipelines (Excel → Database)
-* 🌍 Geo apps (PostGIS + Leaflet)
-* 💰 Financial systems (loan, annuity, calculations)
-* 🧠 Algorithmic optimization (2D bin packing, heuristics)
-
----
-
-## 🧬 PHILOSOPHY
+## 🧬 PHILOSOPHIE
 
 ```
 while(alive) {
@@ -86,12 +68,12 @@ while(alive) {
 ## 📡 CONTACT
 
 ```
-GitHub : @Eddou313
-Status : Open for collaboration
+Tel : +261 32 75 172 78
+Statut : Ouvert à la collaboration
 ```
 
 ---
 
 ## ⚡ SIGNATURE
 
-> *"Code. Break. Fix. Optimize. Repeat."*
+> *"Rien n’est laissé au hasard, tout est conçu."*
