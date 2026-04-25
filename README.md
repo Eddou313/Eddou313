@@ -7,7 +7,6 @@
 ```
 Nom         : Randrianarison Miary Lovatiana Eddou
 Rôle        : Développeur Full-Stack
-Spécialité  : Performance | Architecture | Code propre
 Statut      : En construction / En apprentissage / En optimisation
 Localisation: Madagascar 🇲🇬
 ```
@@ -26,7 +25,7 @@ Localisation: Madagascar 🇲🇬
 
 ### 🎨 Frontend
 
-`Vue.js` `HTML` `CSS` `Tailwind` `Bootstrap` `JSP` `Thymeleaf`
+`Vue.js` `HTML` `CSS` `Tailwind` `Bootstrap` `JSP` `Thymeleaf` `React` 
 
 ### 🗄️ Bases de données
 
@@ -38,7 +37,7 @@ Localisation: Madagascar 🇲🇬
 
 ### 🛠️ Outils & Systèmes
 
-`Git` `SSH` `HAProxy` `Samba` `n8n` `FileZilla`
+`Git` `SSH` `HAProxy` `Samba` `n8n` `FileZilla` `FTP`
 
 ---
 
@@ -49,6 +48,7 @@ Localisation: Madagascar 🇲🇬
 > Développement d'applications full-stack
 > Exploration du DevOps & Cloud
 > Optimisation des algorithmes et des flux de données
+> Automatisation 
 ```
 
 ---
