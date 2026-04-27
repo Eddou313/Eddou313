@@ -29,7 +29,7 @@ Localisation: Madagascar 🇲🇬
 
 ### 🗄️ Bases de données
 
-`PostgreSQL` `MongoDB` `SQL`
+`PostgreSQL` `MongoDB` `MySQL`
 
 ### 📊 Data & Visualisation
 
