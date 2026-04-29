@@ -21,7 +21,7 @@ Localisation: Madagascar 🇲🇬
 
 ### 🚀 Backend
 
-`Spring` `Spring Boot` `Laravel` `.NET` `Flight PHP`
+`SpringMVC` `Spring Boot` `Laravel` `.NET` `Flight PHP`
 
 ### 🎨 Frontend
 
