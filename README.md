@@ -17,7 +17,7 @@ Localisation: Madagascar 🇲🇬
 
 ### 🧑‍💻 Langages
 
-`Java` `C` `C#` `Python` `PHP` `JavaScript`
+`Java` `C` `C#` `Python` `PHP` `JavaScript` `TypeScript`
 
 ### 🚀 Backend
 
