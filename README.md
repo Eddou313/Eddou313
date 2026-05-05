@@ -17,7 +17,7 @@ Localisation: Madagascar 🇲🇬
 
 ### 🧑‍💻 Langages
 
-`Java` `C` `C#` `Python` `PHP` `JavaScript` `TypeScript`
+`Java` `C` `C#` `Python` `PHP` `JavaScript` `TypeScript` 
 
 ### 🚀 Backend
 
@@ -70,6 +70,7 @@ while(alive) {
 ```
 Tel : +261 32 75 172 78
 Statut : Ouvert à la collaboration
+gmail : eddourandria@gmail.com
 ```
 
 ---
